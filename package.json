@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/olshanskiy-ltd/ACALC.git",
+  "homepage": "https://olshanskiy-ltd.github.io/",
   "name": "acalc",
   "version": "0.1.0",
   "private": true,
@@ -13,11 +13,14 @@
     "sass": "^1.43.4",
     "web-vitals": "^1.1.2"
   },
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build --branch master"
   },
   "eslintConfig": {
     "extends": [
