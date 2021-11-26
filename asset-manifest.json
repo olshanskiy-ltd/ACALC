@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ACALC/static/css/main.fe48095e.chunk.css",
+    "main.css": "/ACALC/static/css/main.753aa49d.chunk.css",
     "main.js": "/ACALC/static/js/main.3e3354b0.chunk.js",
     "main.js.map": "/ACALC/static/js/main.3e3354b0.chunk.js.map",
     "runtime-main.js": "/ACALC/static/js/runtime-main.42c0e5f5.js",
@@ -10,13 +10,13 @@
     "static/js/3.924e6f6f.chunk.js": "/ACALC/static/js/3.924e6f6f.chunk.js",
     "static/js/3.924e6f6f.chunk.js.map": "/ACALC/static/js/3.924e6f6f.chunk.js.map",
     "index.html": "/ACALC/index.html",
-    "static/css/main.fe48095e.chunk.css.map": "/ACALC/static/css/main.fe48095e.chunk.css.map",
+    "static/css/main.753aa49d.chunk.css.map": "/ACALC/static/css/main.753aa49d.chunk.css.map",
     "static/js/2.c7cf3629.chunk.js.LICENSE.txt": "/ACALC/static/js/2.c7cf3629.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.42c0e5f5.js",
     "static/js/2.c7cf3629.chunk.js",
-    "static/css/main.fe48095e.chunk.css",
+    "static/css/main.753aa49d.chunk.css",
     "static/js/main.3e3354b0.chunk.js"
   ]
 }
