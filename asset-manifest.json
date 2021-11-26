@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ACALC/static/css/main.fe48095e.chunk.css",
-    "main.js": "/ACALC/static/js/main.d9858a71.chunk.js",
-    "main.js.map": "/ACALC/static/js/main.d9858a71.chunk.js.map",
+    "main.js": "/ACALC/static/js/main.3e3354b0.chunk.js",
+    "main.js.map": "/ACALC/static/js/main.3e3354b0.chunk.js.map",
     "runtime-main.js": "/ACALC/static/js/runtime-main.42c0e5f5.js",
     "runtime-main.js.map": "/ACALC/static/js/runtime-main.42c0e5f5.js.map",
     "static/js/2.c7cf3629.chunk.js": "/ACALC/static/js/2.c7cf3629.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.42c0e5f5.js",
     "static/js/2.c7cf3629.chunk.js",
     "static/css/main.fe48095e.chunk.css",
-    "static/js/main.d9858a71.chunk.js"
+    "static/js/main.3e3354b0.chunk.js"
   ]
 }
